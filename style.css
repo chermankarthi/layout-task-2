@@ -1,0 +1,585 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+
+.container{
+	width:90%;
+	margin:0 auto;
+}
+
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.justify-content{
+	align-items:center;
+}
+
+/*------header section start-----*/
+
+header{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-1{
+	background-color:powderblue;
+	height:50px;
+}
+
+.item-2{
+	background-color:powderblue;
+	height:50px;
+}
+	
+/*------header section end-----*/
+
+
+/*------banner section start-----*/
+
+.banner-sec{
+	background-color:powderblue;
+	height:500px;
+	padding:15px 0;
+}
+
+.item-3{
+	background-color:black;
+	height:400px;
+}
+
+/*------banner section end-----*/
+
+
+/*------about section start-----*/
+
+.about-sec{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-4{
+	background-color:powderblue;
+	height:400px;
+}
+
+.item-5{
+	background-color:powderblue;
+	height:400px;
+}
+
+/*------about section end-----*/
+
+
+
+
+
+/*------our values content section start-----*/
+
+.our-values-content{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-7{
+	background-color:black;
+	height:400px;
+}
+
+/*------our values content end-----*/
+
+
+/*------our values details section start-----*/
+
+.our-values-details{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-8{
+	background-color:powderblue;
+	height:150px;
+}
+
+/*------our values details section end-----*/
+
+
+/*------features content section start-----*/
+
+.features-content{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-10{
+	background-color:black;
+	height:500px;
+}
+
+
+.item-11{
+	background-color:black;
+	height:75px;
+	margin-bottom:50px;
+}
+
+/*------features content end-----*/
+
+
+/*------message icon section start-----*/
+
+.message-icon{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-12{
+	background-color:powderblue;
+	height:500px;
+}
+
+
+.item-13{
+	background-color:powderblue;
+	height:500px;
+	
+}
+
+/*------message icon section end-----*/
+
+
+
+
+
+
+/*------sound icon section start-----*/
+
+.sound-icon{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-15{
+	background-color:black;
+	height:500px;
+}
+
+
+.item-16{
+	background-color:black;
+	height:125px;
+	margin-bottom:25px;
+}
+
+/*------sound icon section end-----*/
+
+
+
+
+/*------services conten section start-----*/
+
+.services-content{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-18{
+	background-color:powderblue;
+	height:300px;
+	margin-bottom:30px;
+}
+
+/*------services content section end-----*/
+
+
+
+
+/*------price content section start-----*/
+
+.price-content{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-20{
+	background-color:powderblue;
+	height:400px;
+}
+
+/*------price content section end-----*/
+
+
+/*------faq heading section start-----*/
+
+.faq-heading{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-21{
+	background-color:black;
+	height:100px;
+}
+
+/*------faq heading section end-----*/
+
+
+/*------faq content section start-----*/
+
+.faq-content{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-22{
+	background-color:powderblue;
+	height:50px;
+	margin-bottom:20px;
+	
+}
+
+/*------faq content section end-----*/
+
+
+/*------portfolio heading section start-----*/
+
+.portfolio-heading{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-23{
+	background-color:black;
+	height:100px;
+	
+}
+
+/*------portfolio ending section end-----*/
+
+
+
+/*------portfolio image section start-----*/
+
+.portfolio-image{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-24{
+	background-color:black;
+	height:150px;
+	margin-bottom:20px;
+	
+}
+
+/*------faq content section end-----*/
+
+
+/*------testimonials-heading section start-----*/
+
+.testimonials-heading{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-25{
+	background-color:powderblue;
+	height:100px;
+
+	
+}
+
+/*------testimonials-heading section end-----*/
+
+
+/*------testimonials-content section start-----*/
+
+.testimonials-content{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-26{
+	background-color:black;
+	height:300px;
+
+	
+}
+
+/*------testimonials-content section end-----*/
+
+
+/*------team-heading section start-----*/
+
+.team-heading{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-27{
+	background-color:powderblue;
+	height:100px;
+
+	
+}
+
+/*------team heading section end-----*/
+
+
+/*------team members section start-----*/
+
+.team-members-image{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-28{
+	background-color:black;
+	height:300px;
+
+	
+}
+
+/*------team members section end-----*/
+
+
+
+/*------clients heading section start-----*/
+
+.clients-heading{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-29{
+	background-color:powderblue;
+	height:100px;	
+}
+
+/*------clients heading section end-----*/
+
+
+
+/*------clients section start-----*/
+
+.our-clients{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-30{
+	background-color:black;
+	height:100px;	
+}
+
+/*------clients section end-----*/
+
+
+/*------blog heading section start-----*/
+
+.blog-heading{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-31{
+	background-color:powderblue;
+	height:100px;	
+}
+
+/*------blog heading section end-----*/
+
+
+/*------blog content section start-----*/
+
+.blog-content{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-32{
+	background-color:black;
+	height:400px;	
+}
+
+/*------blog content section end-----*/
+
+
+/*------contact heading section start-----*/
+
+.contact-heading{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-33{
+	background-color:powderblue;
+	height:100px;	
+}
+
+/*------contact heading section end-----*/
+
+
+/*------contact content section start-----*/
+
+.contact-content{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-34{
+	background-color:black;
+	height:150px;
+	margin-bottom:30px;	
+}
+
+.item-35{
+	background-color:black;
+	height:500px;	
+}
+
+
+/*------contact content section end-----*/
+
+/*------news letter heading section start-----*/
+
+.newsletter-heading{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-36{
+	background-color:powderblue;
+	height:100px;	
+}
+
+/*------news letter heading section end-----*/
+
+
+/*------links heading section start-----*/
+
+.links-heading{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-37{
+	background-color:black;
+	height:100px;	
+}
+
+/*------links heading section end-----*/
+
+
+/*------links section start-----*/
+
+.all-links{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-38{
+	background-color:powderblue;
+	height:300px;	
+}
+
+
+.item-39{
+	background-color:powderblue;
+	height:300px;	
+}
+/*------links section end-----*/
+
+
+
+/*------footer section start-----*/
+
+footer{
+	background-color:powderblue;
+	padding:15px 0;
+}
+
+.item-40{
+	background-color:black;
+	height:100px;	
+}
+
+/*------footer section end-----*/
+
+
+
+
+
+
+
+
+
+
+.col-1{
+	width:8.3%;
+	padding:0 15px;
+}
+
+.col-2{
+	width:16.6%;
+	padding:0 15px;
+}
+
+.col-3{
+	width:25%;
+	padding:0 15px;
+	
+}
+
+.col-4{
+	width:33.3%;
+	padding:0 15px;
+}
+
+.col-5{
+	width:41.6%;
+	padding:0 15px;
+
+}
+
+.col-6{
+	width:50%;
+	padding:0 15px;
+
+}
+
+.col-7{
+	width:58.3%;
+	padding:0 15px;
+
+}
+
+.col-8{
+	width:66.6%;
+	padding:0 15px;
+
+}
+
+.col-9{
+	width:75%;
+	padding:0 15px;
+}
+
+.col-10{
+	width:83.3%;
+	padding:0 15px;
+}
+
+.col-11{
+	width:91.6%;
+	padding:0 15px;
+}
+
+.col-12{
+	width:100%;
+	padding:0 15px;
+}
